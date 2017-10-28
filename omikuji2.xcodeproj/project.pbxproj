@@ -15,13 +15,13 @@
 		CE983ABD1FA4C1F800218236 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE983ABB1FA4C1F800218236 /* LaunchScreen.storyboard */; };
 		CE983AC81FA4C1F900218236 /* omikuji2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE983AC71FA4C1F900218236 /* omikuji2Tests.swift */; };
 		CE983AD31FA4C1F900218236 /* omikuji2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE983AD21FA4C1F900218236 /* omikuji2UITests.swift */; };
-		CE983AE71FA4C8BB00218236 /* shoukiti.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE983AE01FA4C8BA00218236 /* shoukiti.jpeg */; };
-		CE983AE81FA4C8BB00218236 /* suekiti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE983AE11FA4C8BA00218236 /* suekiti.jpg */; };
-		CE983AE91FA4C8BB00218236 /* daikiti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE983AE21FA4C8BA00218236 /* daikiti.jpg */; };
-		CE983AEA1FA4C8BB00218236 /* tyuukiti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE983AE31FA4C8BA00218236 /* tyuukiti.jpg */; };
-		CE983AEB1FA4C8BB00218236 /* kiti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE983AE41FA4C8BA00218236 /* kiti.jpg */; };
-		CE983AEC1FA4C8BB00218236 /* daikyou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE983AE51FA4C8BB00218236 /* daikyou.jpg */; };
-		CE983AED1FA4C8BB00218236 /* kyou.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE983AE61FA4C8BB00218236 /* kyou.jpeg */; };
+		CE983B0E1FA4D74B00218236 /* kiti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE983B0A1FA4D74B00218236 /* kiti.jpg */; };
+		CE983B0F1FA4D74B00218236 /* kyou.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE983B0B1FA4D74B00218236 /* kyou.jpeg */; };
+		CE983B101FA4D74B00218236 /* daikiti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE983B0C1FA4D74B00218236 /* daikiti.jpg */; };
+		CE983B111FA4D74B00218236 /* daikyou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE983B0D1FA4D74B00218236 /* daikyou.jpg */; };
+		CE983B151FA4D75700218236 /* suekiti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE983B121FA4D75700218236 /* suekiti.jpg */; };
+		CE983B161FA4D75700218236 /* shoukiti.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE983B131FA4D75700218236 /* shoukiti.jpeg */; };
+		CE983B171FA4D75700218236 /* tyuukiti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE983B141FA4D75700218236 /* tyuukiti.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,13 +56,13 @@
 		CE983ACE1FA4C1F900218236 /* omikuji2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = omikuji2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE983AD21FA4C1F900218236 /* omikuji2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = omikuji2UITests.swift; sourceTree = "<group>"; };
 		CE983AD41FA4C1F900218236 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CE983AE01FA4C8BA00218236 /* shoukiti.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = shoukiti.jpeg; path = "../../../../Downloads/写真フォルダ/shoukiti.jpeg"; sourceTree = "<group>"; };
-		CE983AE11FA4C8BA00218236 /* suekiti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = suekiti.jpg; path = "../../../../Downloads/写真フォルダ/suekiti.jpg"; sourceTree = "<group>"; };
-		CE983AE21FA4C8BA00218236 /* daikiti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = daikiti.jpg; path = "../../../../Downloads/写真フォルダ/daikiti.jpg"; sourceTree = "<group>"; };
-		CE983AE31FA4C8BA00218236 /* tyuukiti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tyuukiti.jpg; path = "../../../../Downloads/写真フォルダ/tyuukiti.jpg"; sourceTree = "<group>"; };
-		CE983AE41FA4C8BA00218236 /* kiti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kiti.jpg; path = "../../../../Downloads/写真フォルダ/kiti.jpg"; sourceTree = "<group>"; };
-		CE983AE51FA4C8BB00218236 /* daikyou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = daikyou.jpg; path = "../../../../Downloads/写真フォルダ/daikyou.jpg"; sourceTree = "<group>"; };
-		CE983AE61FA4C8BB00218236 /* kyou.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kyou.jpeg; path = "../../../../Downloads/写真フォルダ/kyou.jpeg"; sourceTree = "<group>"; };
+		CE983B0A1FA4D74B00218236 /* kiti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kiti.jpg; sourceTree = SOURCE_ROOT; };
+		CE983B0B1FA4D74B00218236 /* kyou.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kyou.jpeg; sourceTree = SOURCE_ROOT; };
+		CE983B0C1FA4D74B00218236 /* daikiti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = daikiti.jpg; sourceTree = SOURCE_ROOT; };
+		CE983B0D1FA4D74B00218236 /* daikyou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = daikyou.jpg; sourceTree = SOURCE_ROOT; };
+		CE983B121FA4D75700218236 /* suekiti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = suekiti.jpg; sourceTree = SOURCE_ROOT; };
+		CE983B131FA4D75700218236 /* shoukiti.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shoukiti.jpeg; sourceTree = SOURCE_ROOT; };
+		CE983B141FA4D75700218236 /* tyuukiti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tyuukiti.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,14 +113,14 @@
 		CE983AAE1FA4C1F800218236 /* omikuji2 */ = {
 			isa = PBXGroup;
 			children = (
+				CE983B0C1FA4D74B00218236 /* daikiti.jpg */,
+				CE983B0D1FA4D74B00218236 /* daikyou.jpg */,
+				CE983B0A1FA4D74B00218236 /* kiti.jpg */,
+				CE983B0B1FA4D74B00218236 /* kyou.jpeg */,
+				CE983B131FA4D75700218236 /* shoukiti.jpeg */,
+				CE983B121FA4D75700218236 /* suekiti.jpg */,
+				CE983B141FA4D75700218236 /* tyuukiti.jpg */,
 				CE983AAF1FA4C1F800218236 /* AppDelegate.swift */,
-				CE983AE21FA4C8BA00218236 /* daikiti.jpg */,
-				CE983AE51FA4C8BB00218236 /* daikyou.jpg */,
-				CE983AE41FA4C8BA00218236 /* kiti.jpg */,
-				CE983AE61FA4C8BB00218236 /* kyou.jpeg */,
-				CE983AE01FA4C8BA00218236 /* shoukiti.jpeg */,
-				CE983AE11FA4C8BA00218236 /* suekiti.jpg */,
-				CE983AE31FA4C8BA00218236 /* tyuukiti.jpg */,
 				CE983AB11FA4C1F800218236 /* ViewController.swift */,
 				CE983AB31FA4C1F800218236 /* Main.storyboard */,
 				CE983AB91FA4C1F800218236 /* Assets.xcassets */,
@@ -256,15 +256,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE983AEB1FA4C8BB00218236 /* kiti.jpg in Resources */,
+				CE983B151FA4D75700218236 /* suekiti.jpg in Resources */,
+				CE983B171FA4D75700218236 /* tyuukiti.jpg in Resources */,
+				CE983B0E1FA4D74B00218236 /* kiti.jpg in Resources */,
+				CE983B161FA4D75700218236 /* shoukiti.jpeg in Resources */,
 				CE983ABD1FA4C1F800218236 /* LaunchScreen.storyboard in Resources */,
-				CE983AE71FA4C8BB00218236 /* shoukiti.jpeg in Resources */,
-				CE983AED1FA4C8BB00218236 /* kyou.jpeg in Resources */,
 				CE983ABA1FA4C1F800218236 /* Assets.xcassets in Resources */,
-				CE983AEA1FA4C8BB00218236 /* tyuukiti.jpg in Resources */,
-				CE983AE91FA4C8BB00218236 /* daikiti.jpg in Resources */,
-				CE983AEC1FA4C8BB00218236 /* daikyou.jpg in Resources */,
-				CE983AE81FA4C8BB00218236 /* suekiti.jpg in Resources */,
+				CE983B101FA4D74B00218236 /* daikiti.jpg in Resources */,
+				CE983B0F1FA4D74B00218236 /* kyou.jpeg in Resources */,
+				CE983B111FA4D74B00218236 /* daikyou.jpg in Resources */,
 				CE983AB51FA4C1F800218236 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
